@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f6eb7afdb310c793",
+    "id": "acacf39e49a9d4cc",
     "type": "split",
     "children": [
       {
-        "id": "2814b80496e39231",
+        "id": "17b012bde9071d81",
         "type": "tabs",
         "children": [
           {
-            "id": "5896102301ec5ab1",
+            "id": "379391ed1bf34567",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "763710c5734406a0",
+    "id": "fd3c20296a71f123",
     "type": "split",
     "children": [
       {
-        "id": "477b070724326c31",
+        "id": "d8a93f7c77765867",
         "type": "tabs",
         "children": [
           {
-            "id": "40fc4a657a9d82b4",
+            "id": "1961ed8737b365ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "bb8e86003acdef63",
+            "id": "84793102c2a9aae0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "b27fdbeda45aaca4",
+            "id": "ea00b1a3a9b11948",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "2f31c76b05598b76",
+    "id": "6ed13fad6645192d",
     "type": "split",
     "children": [
       {
-        "id": "94f2ba92ce5b83de",
+        "id": "fc1e2fcd9608ba83",
         "type": "tabs",
         "children": [
           {
-            "id": "574e1a600b76c783",
+            "id": "9678f97b70de561f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "f670a61370005937",
+            "id": "27f57873e470555d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "385899e9544e61ea",
+            "id": "e6581e91f22de813",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "61cd06a365986c72",
+            "id": "fd6e4e39a6ac8151",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -157,10 +157,48 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
     }
   },
-  "active": "5896102301ec5ab1",
-  "lastOpenFiles": []
+  "active": "379391ed1bf34567",
+  "lastOpenFiles": [
+    "daily/2025-07-09.md~",
+    "README.md",
+    "daily/2025-07-09.md",
+    "notes/dailies/2025-07-09.md",
+    "notes/dailies",
+    "notes/Money Markets.md~",
+    "notes/2025-07-09.md~",
+    "notes/2025-07-09.md",
+    "notes/Money Markets.md",
+    "notes/Financial Markets.md",
+    "templates/{{title}}.md",
+    "notes/test.md",
+    "notes/1752059201-KUSP.md",
+    "notes/1752056304-IABV.md",
+    "notes/bla.md",
+    "notes/Untitled.md",
+    "templates",
+    "notes/README.md",
+    "notes/books.md",
+    "notes/financial_markets.md~",
+    "notes/securities.md",
+    "notes/1751929551-GYIH.md",
+    "notes/financial_markets.md",
+    "notes/capital_markets.md",
+    "notes/1751927857-RXVY.md",
+    "notes/Capital Markets.md",
+    "notes/1751926919-DWJC.md",
+    "notes/Financial Markets.md~",
+    "notes/1751922566-XSJR.md",
+    "templates",
+    "daily",
+    "notes",
+    "Untitled 1.canvas",
+    "2025-07-07.md",
+    "Untitled.canvas",
+    "Financial Markets/Capital Markets.md",
+    "Financial Markets/Money Markets.md"
+  ]
 }
