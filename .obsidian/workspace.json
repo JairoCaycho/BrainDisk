@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6ed13fad6645192d",
@@ -158,11 +159,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "379391ed1bf34567",
   "lastOpenFiles": [
+    "daily/2025-07-10.md~",
+    "daily/2025-07-10.md",
+    "notes/financial-markets.md",
+    "notes/derivatives-markets.md",
+    "notes/Financial Markets.md~",
+    "notes/1752092756-money-markets.md",
+    "notes/1752092206-DQQD.md",
+    "notes/1752091482-TDCI.md",
+    "notes/1752085974-MGMR.md",
+    "notes/Capital Markets.md",
+    "notes/1752085001-XZSZ.md",
+    "notes/1752084812-WRVM.md",
     "daily/2025-07-09.md~",
     "README.md",
     "daily/2025-07-09.md",
@@ -184,21 +198,10 @@
     "notes/books.md",
     "notes/financial_markets.md~",
     "notes/securities.md",
-    "notes/1751929551-GYIH.md",
-    "notes/financial_markets.md",
-    "notes/capital_markets.md",
-    "notes/1751927857-RXVY.md",
-    "notes/Capital Markets.md",
-    "notes/1751926919-DWJC.md",
-    "notes/Financial Markets.md~",
-    "notes/1751922566-XSJR.md",
     "templates",
     "daily",
     "notes",
     "Untitled 1.canvas",
-    "2025-07-07.md",
-    "Untitled.canvas",
-    "Financial Markets/Capital Markets.md",
-    "Financial Markets/Money Markets.md"
+    "Untitled.canvas"
   ]
 }
