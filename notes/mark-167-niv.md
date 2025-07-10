@@ -5,7 +5,7 @@ aliases:
 tags:
   - quote
 date: 2025-07-10T09:47:05+0200
-links: "[[mark]]"
+links: "[[bible]]"
 ---
 
 # Mark 16.7 NIV
