@@ -165,6 +165,9 @@
   },
   "active": "379391ed1bf34567",
   "lastOpenFiles": [
+    "daily/2025-07-10.md~",
+    "notes/how-should-a-streaming-data-pipeline-look-like.md~",
+    "notes/how-should-a-streaming-data-pipeline-look-like.md",
     "notes/sdk.md~",
     "notes/backend.md~",
     "notes/gluon.md",
@@ -174,7 +177,6 @@
     "notes/mark.md",
     "notes/bible.md~",
     "notes/bible.md",
-    "daily/2025-07-10.md~",
     "daily/2025-07-10.md",
     "notes/financial-markets.md",
     "notes/derivatives-markets.md",
@@ -198,9 +200,7 @@
     "notes/Financial Markets.md",
     "templates/{{title}}.md",
     "notes/test.md",
-    "notes/1752059201-KUSP.md",
     "templates",
-    "notes/financial_markets.md~",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
