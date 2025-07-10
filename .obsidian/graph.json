@@ -1,22 +1,65 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": true,
+  "collapse-filter": false,
+  "search": "-path:daily  ",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#source.book",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
+    },
+    {
+      "query": "tag:#question",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#quote",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "tag:#process",
+      "color": {
+        "a": 1,
+        "rgb": 14385368
+      }
+    },
+    {
+      "query": "tag:#source.chapter",
+      "color": {
+        "a": 1,
+        "rgb": 5205736
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.763541666666667,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.58020833333333,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5980508192939632,
+  "collapse-forces": true,
+  "centerStrength": 0.213541666666667,
+  "repelStrength": 8.125,
+  "linkStrength": 0.71875,
+  "linkDistance": 277,
+  "scale": 0.598050819293964,
   "close": true
 }
