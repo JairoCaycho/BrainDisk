@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6ed13fad6645192d",
@@ -165,6 +164,15 @@
   },
   "active": "379391ed1bf34567",
   "lastOpenFiles": [
+    "notes/centralization-of-filenames-and-its-metadada.md~",
+    "notes/filename-informs-about-last-data-point-timestamp.md~",
+    "notes/snapshot-taking-orchestration.md~",
+    "notes/last-updates.md~",
+    "notes/backend_answer_coin_all_last_updates.json",
+    "notes/last-updates.md",
+    "attatchments/backend_answer_coin_all_last_updates.json~",
+    "attatchments/backend_answer_coin_all_last_updates.json",
+    "attatchments",
     "notes/isolation-as-a-leader.md~",
     "notes/isolation-as-a-leader.md",
     "notes/s2-core-tenents.md~",
@@ -173,23 +181,15 @@
     "notes/mark.md",
     "notes/leadership-strategy-and-tactics.md",
     "notes/mark-167-niv.md",
-    "notes/mark.md~",
-    "daily/2025-07-10.md~",
-    "notes/the-role-of-peter-in-the-christian-church.md~",
     "notes/the-role-of-peter-in-the-christian-church.md",
-    "notes/snapshot-taking-orchestration.md~",
     "notes/centralization-of-filenames-and-its-metadada.md",
     "notes/filename-informs-about-last-data-point-timestamp.md",
-    "notes/how-should-a-streaming-data-pipeline-look-like.md~",
     "notes/snapshot-taking-orchestration.md",
     "notes/how-should-a-streaming-data-pipeline-look-like.md",
-    "notes/sdk.md~",
-    "notes/backend.md~",
     "notes/gluon.md",
     "notes/sdk.md",
     "notes/backend.md",
     "notes/iruss.md",
-    "notes/bible.md~",
     "notes/bible.md",
     "daily/2025-07-10.md",
     "notes/financial-markets.md",
@@ -200,7 +200,6 @@
     "notes/1752085974-MGMR.md",
     "notes/Capital Markets.md",
     "notes/1752085001-XZSZ.md",
-    "notes/1752084812-WRVM.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
