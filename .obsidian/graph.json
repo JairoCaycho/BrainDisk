@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5205736
       }
+    },
+    {
+      "query": "tag:#author",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 8.125,
   "linkStrength": 0.71875,
   "linkDistance": 277,
-  "scale": 0.598050819293964,
+  "scale": 0.5980508192939644,
   "close": true
 }
